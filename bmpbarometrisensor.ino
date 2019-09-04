@@ -1,3 +1,13 @@
+//To control the BMP180 barometric sensor, you need to install the SFE_BMP180 Library.
+
+//Installing the SFE_BMP180 Library
+//Click here to download the SFE_BMP180 library. You should have a .zip folder in your Downloads folder
+//Unzip the .zip folder and you should get BMP180_Breakout_Arduino_Library-master folder
+//Rename your folder from BMP180_Breakout_Arduino_Library-master to BMP180_Breakout_Arduino_Library 
+//Move the BMP180_Breakout_Arduino_Library folder to your Arduino IDE installation libraries folder
+//Finally, re-open your Arduino IDE
+
+
 // Your sketch must #include this library, and the Wire library.
 // (Wire is a standard library included with Arduino.):
 
